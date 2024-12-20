@@ -1,7 +1,7 @@
 
-const GITHUB_AUTH_TOKEN = ""
-const GITHUB_USERNAME = ""
-const SESSION_ID = ""
+const GITHUB_AUTH_TOKEN = "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"
+const GITHUB_USERNAME = "R4RxSHEWAN"
+const SESSION_ID = "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=634B2a4T#fVKUk3f4Dqub0PXqP-Y8IV6P7httVOJJHGjBJz65s3k"
 
 
 module.exports = {
